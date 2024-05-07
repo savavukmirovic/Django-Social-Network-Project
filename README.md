@@ -13,14 +13,13 @@ Social network specifically tailored for developers, providing them with a platf
 * 5 - python manage.py runserver
 
 
-
 # Features
 * Share Projects
 * Message other developers
 * Rate others work
 * Search other developers
 
-# Course Overview
+# Project Overview
 * Basic Django Overview
 * Database Design and Models
 * Static Files
@@ -37,7 +36,6 @@ Social network specifically tailored for developers, providing them with a platf
 
 # Home Page
 <img src="./resources/DevSearch Home.jpg">
-
 
 # Projects Page
 <img src="./resources/DevSearch Projects.jpg">
