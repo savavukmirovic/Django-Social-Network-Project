@@ -21,7 +21,7 @@ Social network specifically tailored for developers, providing them with a platf
 * Search other developers
 
 # Course Overview
-* Basic Djagno Overview
+* Basic Django Overview
 * Database Design and Models
 * Static Files
 * User Registration & Authentication
